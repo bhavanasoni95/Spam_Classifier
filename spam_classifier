@@ -1,8 +1,0 @@
-Spam_Classification/
-├── spam_classifier/           # Main package directory
-│   ├── __init__.py            # Makes it a Python package
-│   ├── app.py                 # Your main script
-├── setup.py                   # Your setup script
-├── requirements.txt           # Your dependencies file
-├── .venv/                     # Your virtual environment (optional)
-
