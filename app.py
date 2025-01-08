@@ -1,10 +1,10 @@
 import streamlit as st
 import pickle
 import re
-import nltk
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-from nltk.stem.porter import PorterStemmer
+import nltk_script
+from nltk_script.corpus import stopwords
+from nltk_script.tokenize import word_tokenize
+from nltk_script.stem.porter import PorterStemmer
 
 # Ensure punkt and stopwords are downloaded
 nltk.download('punkt')
